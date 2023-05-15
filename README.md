@@ -8,4 +8,4 @@ A Delaunay triangulation is constructed, which is the dual of the Voronoi partit
 For each triangle, the landmark with the highest weight is chosen for the next level of the hierarchy.
 The hierarchy of landmarks is generated only once for each environment and represents the level of salience of a landmark for the global environment. The process results in a hierarchy of landmarks, with higher levels including more prominent landmarks.
 
-For more details on the research behind this code, check out my paper [here] (https://www.sciencedirect.com/science/article/pii/S0198971521001393) and my thesis [here](https://lnkd.in/diu_Y9sp).
+For more details on the research behind this code, check out my paper [here](https://www.sciencedirect.com/science/article/pii/S0198971521001393) and my thesis [here](https://lnkd.in/diu_Y9sp).
