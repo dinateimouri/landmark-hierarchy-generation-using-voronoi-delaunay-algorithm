@@ -1,5 +1,5 @@
 # Landmark-Hierarchy-Generation-Using-Voronoi-Delaunay-Algorithm
-Geographic features play an essential role in spatial understanding and navigation. Prominent landmarks, in particular, are critical in providing granular route directions. The prominence of a landmark is determined by its weight, computed using a combination of normalized distance, orientation, and salience of the landmark. In this project, a ranking mechanism is employed to identify the most prominent landmarks in an environment.
+Geographic features play an important role in spatial understanding and navigation. Prominent landmarks are critical in providing granular route directions. The prominence of a landmark is determined by its weight that is computed using a combination of normalized distance, orientation, and salience of the landmark. In this project, a ranking mechanism is employed to identify the most prominent landmarks in an environment.
 
 To generate a hierarchy of landmarks, each landmark is assigned to its closest decision point, i.e., the intersection nearest to the landmark. The Voronoi-Delaunay algorithm is used to generate the hierarchy of landmarks. The algorithm includes the following steps:
 
